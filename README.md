@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ideaves
 - 👀 I’m interested in anything quantitative or numerical within the capital markets space generally. I also
 - have a degree in Physics and I'm competent with weather models, Monte Carlo simulation methods, and floating
-- point calculations generally. I've currently got a reasonably well developed method for teaching floating-
+- point calculations broadly. I've currently got a reasonably well developed method for teaching floating-
 - point native LSTM models to predict out of sample, in a time series context. I also have a scrapy/Splash/
 - implementation, and an equivalent Selenium-based C# implementation that maintain periodic (e.g. 5 minute)
 - realtime futures price snapshots from your authorized web quote services.
