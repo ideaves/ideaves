@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ideaves
+
 - 👀 I’m interested in anything quantitative or numerical within the capital markets space generally. I also
 - have a degree in Physics and I'm competent with weather models, Monte Carlo simulation methods, and floating
 - point calculations broadly. I've currently got a reasonably well developed method for teaching floating-
