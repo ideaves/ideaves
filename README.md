@@ -14,8 +14,7 @@ authorized web quote services.
 🌱 I’m currently learning about some of the more interesting categorical and non-supervised AI models, but
 have not had suffient free time, or an interesting enough challenge, to prompt a lot of research.
  
-💞️ I’m looking to collaborate on anything that supports open-source or standardized ways of executing capital-
-markets related calculations, including bespoke derivatives. I like ISDA.
+💞️ I’m looking to collaborate on anything that supports open-source or standardized ways of executing capital-markets related calculations, including bespoke derivatives. I like ISDA.
 
 📫 I can be emailed at ideaves@yahoo.com regarding any questions, or requests for features, or bug reports.
 In bug reports, please include a) a brief description why it's a bug, and b) a way to reproduce or confirm it.
